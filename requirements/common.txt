@@ -3,7 +3,7 @@
 # UNMAINTAINED means the package owner is no longer maintaining it
 
 # Core
-Django>=3.1,<4.0  # (bumped 2025-03-11) # ------------------------------------------------------------ (bumped 2025-03-11)
+Django>=3.1,>=4.0  # (bumped 2025-03-11) # ------------------------------------------------------------ (bumped 2025-03-11)
 sqlparse>=0.2,<0.5  # (required for some old migrations) ----------------------- (bumped 2021-04-15)
 
 # Django Utils
